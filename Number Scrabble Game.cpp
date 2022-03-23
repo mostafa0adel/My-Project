@@ -1,3 +1,6 @@
+//Author: Mostafa Adel Khodary
+//ID: 20211093
+//Game 3 -A1- Number Scrabble
 #include<iostream>
 #include<set>
 using namespace std;
