@@ -1,0 +1,4 @@
+moadel@yahoo.com,112,60.0
+moadel@yahoo.com,118,30.0
+moadel@yahoo.com,101,13.5
+moadel@yahoo.com,103,22.5

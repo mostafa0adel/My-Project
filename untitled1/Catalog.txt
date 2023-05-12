@@ -1,0 +1,20 @@
+Toffee bar,Candy,A delicious toffee bar with caramel flavor,101,40.5,Cadbury,1.50,10.0,30
+Toffee popcorn,Snacks,Crunchy and sweet toffee popcorn,102,40,Orville Redenbacher's,2.50,5.0,45
+Toffee ice cream,Dessert,Creamy vanilla ice cream with swirls of toffee sauce,103,40.5,Baskin-Robbins,3.50,15.0,40
+Toffee cake,Bakery,Soft sponge cake with a layer of toffee filling,104,40,Sara Lee,5.50,20.0,15
+Toffee biscuits,Cookies,Crispy cookies with chunks of toffee,105,40.5,McVitie's,1.75,7.5,30
+Toffee fudge,Candy,Rich and creamy fudge with toffee flavor,106,40,Werther's Original,2.75,12.5,14
+Toffee nut latte,Beverage,Smooth espresso with steamed milk and toffee nut syrup,107,40.5,Starbucks,4.50,10.0,14
+Toffee apple,Fruit,Crispy apple covered in toffee sauce and nuts,108,40,Mrs. Prindable's,3.25,5.0,32
+Toffee yogurt,Dairy,Creamy yogurt with swirls of toffee sauce,109,40.5,Yoplait,2.00,7.5,13
+Toffee flavored protein bar,Snacks,Nutritious protein bar with a toffee flavor,110,40,Quest Nutrition,2.75,15.0,15
+Toffee spread,Condiments,Rich and creamy toffee spread,111,40.5,Carnation,3.50,20.0,30
+Toffee liqueur,Alcohol,Sweet and smooth toffee flavored liqueur,112,40,Baileys,25.00,10.0,40
+Toffee scented candle,Home goods,A candle with a warm and sweet toffee fragrance,113,40.5,Yankee Candle,10.00,5.0,40
+Toffee flavored tea,Beverage,A black tea with a hint of toffee flavor,114,40,Bigelow,3.00,7.5,25
+Toffee flavored syrup,Condiments,A sweet syrup with a toffee flavor,115,40.5,Torani,7.50,15.0,20
+Toffee scented body lotion,Beauty,A moisturizing lotion with a toffee fragrance,116,40,The Body Shop,12.00,10.0,14
+Toffee flavored yogurt covered raisins,Snacks,Raisins covered in creamy toffee flavored yogurt,117,40.5,Sun-Maid,2.50,7.5,23
+Toffee cereal,Breakfast,A crunchy cereal with bits of toffee,118,40,Kellogg's,4.00,12.5,25
+Toffee milkshake,Beverage,A creamy milkshake with a toffee flavor,119,40.5,McDonald's,3.50,5.0,30
+Toffee flavored lip balm,Beauty,A moisturizing lip balm with a sweet toffee flavor,120,40,EOS,2.00,20.0,18
